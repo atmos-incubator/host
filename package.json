@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/atmos-incubator/host/issues"
   },
-  "homepage": "https://github.com/atmos-incubator/host#readme"
+  "homepage": "https://github.com/atmos-incubator/host#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
